@@ -35,9 +35,9 @@ The feature selection techniques used are:
       ```
       df.head()
       ```
-      ```
+      
       ![image](https://github.com/Krishnakanth23006762/EXNO-4-DS/assets/138849446/be8803ae-b2a5-4fa4-bb4d-e1b176d59d95)
-      ```
+      
       ```
       max_vals =np.max(np.abs(df[['Height','Weight']]))
       max_vals
